@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MA\Bewijzenmappen\Leerjaar 2\Periode 2.1\Sys\c#les2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
