@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiFQgbrSemfOEHjNrNtaFCNpxpYwU1akC0VwwaoB2qbl26bC4FVEf5X0c4rDZ/Mlbn9YiOuw8E8tiKbaPqM88Q==",
+  "success": true,
+  "projectFilePath": "D:\\MA\\Bewijzenmappen\\Leerjaar 2\\Periode 2.1\\Sys\\c#les2\\ArrayOpdracht\\ArraysAndDictionaries\\ArraysAndDictionaries\\ArraysAndDictionaries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
