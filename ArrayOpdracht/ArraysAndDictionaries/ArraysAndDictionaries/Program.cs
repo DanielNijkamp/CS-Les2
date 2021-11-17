@@ -9,17 +9,28 @@ namespace ArraysAndDictionaries
             Console.WriteLine("Hello World!");
 
         }
-        public Room(int _width, int _Height)
-        {
-            
-        }
+
     }
     class Room
     {
-        int[,] m_Array =
+        public void room(int width, int heigth)
         {
-            {0,0,0},
-            {0,0,0}
-        };
+
+            Tile[][] roomtiles = new Tile[7][];
+            for (int y = 0; y < roomtiles.Length; y++)
+            {
+                roomtiles[y] = new Tile[0];
+                for (int coordI = 0; coordI < roomtiles.Length; coordI++)
+                {
+                    roomtiles[y][coordI] = new Tile();
+                }
+            }
+        }
+    }
+
+    class Tile
+    {
+
+
     }
 }

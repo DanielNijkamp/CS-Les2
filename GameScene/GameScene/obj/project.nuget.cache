@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXxm5URK23rvdAnOkSb4gv//3PhKYYrNKe+G7u1w30BPLl2bToYVt9VfgH7p7Ge8OPTfdlsO2JSbrnjyWyF9pw==",
+  "success": true,
+  "projectFilePath": "D:\\MA\\Bewijzenmappen\\Leerjaar 2\\Periode 2.1\\Sys\\c#les2\\GameScene\\GameScene\\GameScene.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
